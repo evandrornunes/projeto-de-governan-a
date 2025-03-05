@@ -1,2 +1,3 @@
 # projeto-de-governan-a
-top best
+requisitos de software
+revisão e validadeção de requisitos
